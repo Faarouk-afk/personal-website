@@ -1,4 +1,4 @@
-import { posts } from './posts.js';
+import { posts } from '../../lib/stores/posts.js';
 
 export function load() {
     // to remove // const visited = cookies.get('visited');
