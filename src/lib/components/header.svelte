@@ -15,6 +15,7 @@
             <ul class="p-2">
               <li><a href="/">AI helper</a></li>
               <li><a href="/">Coaching</a></li>
+              <li><a href="/tools/todolist">Todo list</a></li>
             </ul>
           </details>
         </li>
